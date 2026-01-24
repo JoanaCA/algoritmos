@@ -1,0 +1,9 @@
+# Prerrequisitos
+*.d
+*.o
+*.obj
+*.exe
+*.dll
+
+# VS Code
+.vscode/
